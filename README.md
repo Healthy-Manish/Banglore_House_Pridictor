@@ -2,5 +2,5 @@
 
 Welcome to my awesome project!
 
-![Project Image](client/pic.jpg)
+![Project Image](client/pic.png)
 
