@@ -6,6 +6,6 @@ This model predict house pricing in banglore in diffrent cities across banglore<
 Here I had taken data from diffrent cities in banglore<br><br>
 Source of dataset used <https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data><br><br>
 
-Install puthon and other dependencies, run `pip install flask`.<br>
+Install python , run `pip install flask`.<br>
 run sever file for testing `python server.py`<br>
-run app.html file
+run app.html file, you will now able to use the model 
